@@ -1,1 +1,5 @@
 _BEVÁSÁRLÓLISTA_
+-alma
+-kenyér
+-tej
+-sajt
